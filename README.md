@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Gracy Patel 
+## Developer and Designer
 <!--
 **gracyspatel/gracyspatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
