@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ ⚡  Tech Stack:
+ 
+
+![R](https://user-images.githubusercontent.com/57026631/142611543-5af86eeb-8be5-4b5a-bbd0-82f273d65a59.png)
