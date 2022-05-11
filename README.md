@@ -1,7 +1,7 @@
 # Gracy Patel 
 ## Developer and Designer
 
--🔭 I’m currently working on to sharpen by basics. <br/>
+-🔭 I’m currently working on to sharpen my basics. <br/>
 -🌱 I’m currently learning React js framework.
 
 <!--
