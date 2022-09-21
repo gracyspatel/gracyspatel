@@ -3,7 +3,7 @@
 ## Software Engineer
 
 -🔭 A dedicated Software Engineer pursuing a degree in Computer Science & Engineering, looking for securing a
-position in a company in-order to efficiently contribute towards the growth of an organization.
+position in a company in-order to efficiently contribute towards the growth of an organization. <br/>
 -🌱 I’m currently learning React js framework.
 - VISIT - https://gracy-me.vercel.app/
 
