@@ -1,4 +1,22 @@
-# Gracy Patel 
+
+## Hi 👋, I'm Gracy Patel 
+## Software Engineer
+
+-🔭 A dedicated Software Engineer pursuing a degree in Computer Science & Engineering, looking for securing a
+position in a company in-order to efficiently contribute towards the growth of an organization.
+-🌱 I’m currently learning React js framework.
+- VISIT - https://gracy-me.vercel.app/
+
+
+ ⚡  Tech Stack: C, C++, JavaScript, Python,Java,OOPS, Data Structure and Algorithm, DBMS, Data
+Visualization, Web Scrapping, Linux, PrismaJS, NextJS
+Databases: MongoDB, MySQL, PostgreSql
+Developer Tools: VS Code, Google Collab,Google Data Studio, GitHub, Anaconda: Jupyter
+Technologies/Frameworks: ReactJS, Redux,NodeJS, ExpressJS, NextJS, Flask, Git
+Soft Skills: Presentation, Analytical, Teamwork, Problem-solving
+Communication: English,Hindi,Gujarati 
+
+# Hi 👋, I'm Gracy Patel 
 ## Developer and Designer
 
 -🔭 I’m currently working on to sharpen my basics. <br/>
