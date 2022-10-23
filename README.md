@@ -5,7 +5,7 @@
 -🔭 A dedicated Software Engineer pursuing a degree in Computer Science & Engineering, looking for securing a
 position in a company in-order to efficiently contribute towards the growth of an organization. <br/>
 -🌱 I’m currently working on bulding skills with data science and analytics.
-- VISIT - gracy.me
+- VISIT - www.gracy.me
 
 
 👨‍💻  Tech Stack: C, C++, JavaScript, Python,Java,OOPS, Data Structure and Algorithm, DBMS, Data
